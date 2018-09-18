@@ -1,0 +1,1 @@
+{"jobID":"4f36d918-eef3-2420-3fa1-f0dd895e7f11","spec":{"type":"policy","cause":{"Message":"","User":"Jordan Worner \u003cjordan@excitingminds.com\u003e"},"spec":{"default:deployment/helloworld":{"add":{"automated":"true"},"remove":{}}}},"result":null}
